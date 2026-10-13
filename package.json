@@ -1,1 +1,1 @@
-{"name":"nocturna-arena","version":"1.0.0","private":true,"description":"Servidor de salas multiplayer de Nocturna Arena","scripts":{"start":"node server.js"},"dependencies":{"ws":"^8.18.0"},"engines":{"node":">=18"}}
+{"name":"nocturna-arena","version":"1.0.0","private":true,"description":"Servidor de salas multiplayer de Nocturna Arena","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"ws":"^8.18.0"},"engines":{"node":">=18"}}
